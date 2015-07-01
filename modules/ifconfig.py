@@ -2,7 +2,7 @@ import os
 
 def run(**args):
 	print "[*] in ifconfig module"
-	handle = os.popen(command)
+	handle = os.popen("ifconfig")
     	line = " "
 	output = "ifconfig: "
     	while line:
