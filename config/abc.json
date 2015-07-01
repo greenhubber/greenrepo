@@ -1,11 +1,3 @@
-[
-	{
-	 "module" : "dirlister"
-	},
-	{
-	"module"  : "enviroment"
-	},
-	{
-	"module"  : "network"
-	}
-]
+Ww0KICAgICAgICB7DQogICAgICAgICAibW9kdWxlIiA6ICJkaXJsaXN0ZXIiDQogICAgICAgIH0s
+DQogICAgICAgIHsNCiAgICAgICAgIm1vZHVsZSIgIDogImVudmlyb21lbnQiDQogICAgICAgIH0s
+DQogICAgICAgIHsNCiAgICAgICAgIm1vZHVsZSIgIDogIm5ldHdvcmsiDQogICAgICAgIH0NCl0=
