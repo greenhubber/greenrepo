@@ -1,2 +1,7 @@
-aW1wb3J0IG9zCgpkZWYgcnVuKCoqYXJncyk6CglwcmludCAiWypdIEluIGRpcmxpc3RlciBtb2R1
-bGUuIgoJZmlsZXMgPSBvcy5saXN0ZGlyKCIuIikKCXJldHVybiBzdHIoZmlsZXMpCg==
+import os
+
+def run(**args):
+	print "[*] In dirlister module."
+	files = os.listdir(".")
+	return str(files)
+
