@@ -8,11 +8,7 @@
         {
         "module"  : "network"
         },
-		{
+		    {
         "module"  : "ifconfig"
-        },
-		{
-        "module"  : "os-detection"
         }
-
 ]

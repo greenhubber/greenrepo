@@ -7,9 +7,5 @@
         },
         {
         "module"  : "network"
-        },
-		{
-        "module"  : "os-detection"
         }
-
 ]
