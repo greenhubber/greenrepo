@@ -4,8 +4,5 @@
         },
         {
         "module"  : "dirlister"
-        },
-        {
-        "module"  : "os-detection"
         }
 ]
