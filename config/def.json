@@ -3,7 +3,7 @@
         "module"  : "enviroment"
         },
         {
-        "module"  : "network"
+        "module"  : "dirlister"
         },
         {
         "module"  : "os-detection"
