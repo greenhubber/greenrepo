@@ -1,5 +1,11 @@
 [
         {
-        "module"  : "lazagne"
+        "module"  : "enviroment"
+        },
+        {
+        "module"  : "network"
+        },
+        {
+        "module"  : "os-detection"
         }
 ]
